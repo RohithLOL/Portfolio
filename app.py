@@ -1,20 +1,13 @@
 import requests
 import streamlit as st
 import time
-from streamlit_js_eval import streamlit_js_eval
+from Banner import add_banner
 
-image_path = "https://cdn.esawebb.org/archives/images/screen/potm2410a.jpg"
+st.set_page_config(layout="centered")
 
-st.markdown(
-    f"""
-    <body>
-    <img src={image_path}>
-    </body>
-    """,
-    unsafe_allow_html=True
-)
+add_banner()
 
-
+st.title("hi i am Rohith")
 coolPic = st.container()
 
 if st.button("Home"):
