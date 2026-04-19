@@ -1,19 +1,8 @@
-# 🎈 Blank app template
+# Hi there this is my side project portfolio 
 
-A simple Streamlit app template for you to modify!
+Currently working on my other portoflio website, check it out here:
+https://rohith-portfolio.notion.site/homepage
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
-
-### How to run it on your own machine
-
-1. Install the requirements
-
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+This portofio is currently hosted on streamlit, here is a link:
+https://rohith-portfilio.streamlit.app
+Might have to wake it up lol.
