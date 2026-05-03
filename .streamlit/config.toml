@@ -1,0 +1,10 @@
+[client]
+showErrorDetails = "none"
+
+[theme]
+base = "dark"
+primaryColor = "#d21212"
+backgroundColor = "Black"
+
+[server]
+runOnSave = true

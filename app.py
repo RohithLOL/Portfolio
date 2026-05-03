@@ -17,7 +17,7 @@ if st.button("Page 1"):
 
 with coolPic: 
     with st.spinner("Loading files"):
-        url = "https://drive.google.com/uc?export=view&id=1UX1ORnpUj87_3CmLZu9C4KSs1WdFJi_C"
-        response = requests.get(url)
-        coolPic = st.image(response.content)
+        url = ""
+        #response = requests.get(url)
+        #coolPic = st.image(response.content)
         time.sleep(0.5)
